@@ -1,0 +1,57 @@
+[
+    {
+        "nome": "#jose",
+        "texto": "Realmente, está tudo no normal. Não tem nada errado aqui. Eu estava fazendo uma analise🤔",
+        "audio": "assets/audio/1.mp3"
+    },
+    {
+        "nome": "#jose",
+        "texto": "Vai te ferrar você com essa opção. Se não tiver uma coisa melhor, não me dê mais sinal. Topa de otario.",
+        "audio": "assets/audio/2.mp3"
+    },
+    {
+        "nome": "#jose",
+        "texto": "Vou procurar um advogado e meter ocês o ferro, cambada de safado.",
+        "audio": "assets/audio/3.mp3"
+    },
+    {
+        "nome": "#ronemar",
+        "texto": "Alguém tem condição de me emprestar 50 reais?",
+        "audio": "assets/audio/4.mp3"
+    },
+    {
+        "nome": "#jose",
+        "texto": "Pega essa opção inválida e enfia dentro do c#",
+        "audio": "assets/audio/5.mp3"
+    },
+    {
+        "nome": "#matheus",
+        "texto": "Cala boca Fillipe, muito chato.",
+        "audio": "assets/audio/6.mp3"
+    },
+    {
+        "nome": "#ronemar",
+        "texto": "Vai tomar no c# você, seu avião, sua mãe, seu pai, a verdura. Vai tomar no seu c#",
+        "audio": "assets/audio/7.mp3"
+    },
+    {
+        "nome": "#josecarlos",
+        "texto": "Enrola no dedo, enfia no olho do seu c#, cambada de fdp!",
+        "audio": "assets/audio/8.mp3"
+    },
+    {
+        "nome": "#hulk",
+        "texto": "É uma falta de respeito, eu to cansado, do brasil eu to cansado! Mais um mês aqui eu vou embora.",
+        "audio": "assets/audio/9.mp3"
+    },
+    {
+        "nome": "#adriano",
+        "texto": "É impressionante, vocês não me deixam em paz.",
+        "audio": "assets/audio/10.mp3"
+    },
+    {
+        "nome": "#ronemar",
+        "texto": "Se vocês começar a encher saco eu vou sair da desgraça desse grupo.",
+        "audio": "assets/audio/12.mp3"
+    }
+]
