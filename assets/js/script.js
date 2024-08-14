@@ -68,12 +68,12 @@ function displayCards(cards) {
         const li = document.createElement('li');
         li.className = 'card';
         li.innerHTML = `
-            <span class="number">${item.nome}</span>
+            <p class="number">${item.nome}</p>
             <div class="detail">
                 <div class="logo-text">${item.texto}</div>
                 <div class="audio-controls">
                     <button onclick="playAudio('${item.audio}', this)">Play</button>
-                    <a href="${item.audio}" download>Download</a>
+                    <a href="${item.audio}" download="${item.texto}.mp3">Download</a>
                 </div>
             </div>
         `;

@@ -83,3 +83,27 @@ body {
 .audio-controls a {
     text-decoration: none;
 }
+
+
+@media (prefers-color-scheme: dark) {
+
+    .card  {
+        background-color: rgb(27, 30, 31);
+        border-color: rgb(58, 62, 65);
+    }
+    
+    body{
+    background-color: #0c0c0c;
+
+    }
+    .card .logo-text {
+        color: rgb(200, 195, 188);
+    }
+
+    .number, h1, .filter {
+        color:#E8E6E3; 
+    }
+    .content {
+        background-color: rgb(12,14,15);
+    }
+}
