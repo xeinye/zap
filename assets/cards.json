@@ -53,5 +53,10 @@
         "nome": "#ronemar",
         "texto": "Se vocês começar a encher saco eu vou sair da desgraça desse grupo.",
         "audio": "assets/audio/12.mp3"
+    },
+    {
+        "nome": "#josecarlos",
+        "texto": "Vai tomar no c# bia",
+        "audio": "assets/audio/13.mp3"
     }
 ]
