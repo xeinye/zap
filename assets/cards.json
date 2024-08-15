@@ -58,5 +58,11 @@
         "nome": "#josecarlos",
         "texto": "Vai tomar no c# bia",
         "audio": "assets/audio/13.mp3"
+        
+    },
+    {
+        "nome": "#kleris",
+        "texto": "Ha ha ha",
+        "audio": "assets/audio/14.mp3"
     }
 ]
