@@ -64,5 +64,25 @@
         "nome": "#kleris",
         "texto": "Ha ha ha",
         "audio": "assets/audio/14.mp3"
+    },
+    {
+        "nome": "#neto",
+        "texto": "Perdoa, perdoa o pai",
+        "audio": "assets/audio/15.mp3"
+    },
+    {
+        "nome": "#ronemar",
+        "texto": "To trabalhando camarada, me deixa em paz",
+        "audio": "assets/audio/16.mp3"
+    },
+    {
+        "nome": "#ronemar",
+        "texto": "Ah entendi, então você gosta de desfazer dos outros né",
+        "audio": "assets/audio/17.mp3"
+    },
+    {
+        "nome": "#saimon",
+        "texto": "Ha ha ara",
+        "audio": "assets/audio/18.mp3"
     }
 ]
