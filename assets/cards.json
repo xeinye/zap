@@ -94,6 +94,12 @@
         "nome": "#saulo",
         "texto": "Inaudível, Teteu",
         "audio": "assets/audio/20.mp3"
+    },
+    {
+        "nome": "#ronemar",
+        "texto": "Cansei, tá, ninguém desfaz de mim não",
+        "audio": "assets/audio/21.mp3"
     }
+    
     
 ]
